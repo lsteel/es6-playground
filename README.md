@@ -10,6 +10,8 @@ JavaScript *to* JavaScript. You need to install plugins in order to activate the
 different features. Then you need to use the `require` hook to enable compiling.
 That initialization step is taken care of for you in `init.js`.
 
+After cloning, be sure to install the dependencies with `npm install`.
+
 You can start writing es6 in `index.js`. A good es6 resource is on
 [babel's website][babel-es6]. Run `npm start` or `node init` in order to run
 your code.
